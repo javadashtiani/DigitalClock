@@ -1,5 +1,5 @@
 # DigitalClock
-![bmi](https://github.com/javadashtiani/BMICalc/assets/134012615/84ea2514-78e1-4a90-ab35-6b65d3165e90)
+![digitalclock](https://github.com/javadashtiani/DigitalClock/assets/134012615/6ce7b051-c8db-4445-847a-905c6508609d)
 - 🔗 https://javadashtiani.github.io/DigitalClock/
 - 💻 Developed by Javad Ashtiani
 - 📆 Created - 2023
